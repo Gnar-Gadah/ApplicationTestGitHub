@@ -12,5 +12,5 @@ namespace ApplicationTestGitHub
         {
             String test;
         }
-    }§
+    }
 }
