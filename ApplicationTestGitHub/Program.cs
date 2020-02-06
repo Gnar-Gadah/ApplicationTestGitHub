@@ -10,6 +10,7 @@ namespace ApplicationTestGitHub
     {
         static void Main(string[] args)
         {
+            String test;
         }
-    }
+    }§
 }
